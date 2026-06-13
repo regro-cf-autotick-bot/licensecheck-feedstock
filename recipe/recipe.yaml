@@ -1,5 +1,5 @@
 context:
-  version: 2025.1.0
+  version: "2026.0.1"
 
 package:
   name: licensecheck
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/l/licensecheck/licensecheck-${{ version }}.tar.gz
-    sha256: 411a1d81606b8be695794c1e7e79cc899b51fe5c501164155361cd2d6f3c5969
+    sha256: 70f536775698a120c7bf1e0e958b92cf4cbd7d00a4f8530582b77cb8939c6f5d
 
 build:
   number: 0
