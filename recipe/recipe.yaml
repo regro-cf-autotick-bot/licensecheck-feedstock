@@ -27,7 +27,7 @@ requirements:
     - python >=${{ python_min }}
     - appdirs >=1.4.4
     - configurator >=3.2.0
-    - depgathe =0.4.0
+    - depgather =0.4.0
     - license-expression >=30.4.4
     - loguru >=0.7.3
     - markdown >=3.10.2
